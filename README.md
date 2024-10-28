@@ -4,7 +4,7 @@
 Hyperparameter Tuning and Cross Validation
 
 
-![confusionmatrix](images/TF.png)
+![confusionmatrix](images/FT.gif)
 
 ### Setup Instructions
 
